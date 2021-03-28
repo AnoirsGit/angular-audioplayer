@@ -1,0 +1,29 @@
+.audio-title{
+	line-height: 100%;
+}
+
+.audio-hr{
+	margin: 8px;
+}
+
+.main-audio-btn{
+	font-size: 36px;
+	transition: all ease 0.3;
+	transform: scale(0.9);
+	cursor: pointer;
+}
+
+.main-audio-btn:hover{
+	transform: scale(1);
+}
+
+.stop-btn{
+	font-size: 20;
+	cursor: pointer;
+	transition: all ease 0.3;
+	transform: scale(0.9);
+}
+
+.stop-btn:hover{
+	transform: scale(1);
+}
